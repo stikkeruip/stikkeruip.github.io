@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.066e99b4.css",
+    "main.js": "/static/js/main.650c7b68.js",
+    "static/media/HollowRemake.mp4": "/static/media/HollowRemake.01db3f3b34c02239aad4.mp4",
+    "static/media/bannerBg.png": "/static/media/bannerBg.2068ba82dfd096fb7d51.png",
+    "static/media/projectBg.jpg": "/static/media/projectBg.ca20e427410969fd8d24.jpg",
+    "static/media/demoAvatar.png": "/static/media/demoAvatar.9ab9103936354ecad0ce.png",
+    "static/media/dummy.pdf": "/static/media/dummy.1a7212338381990a3767.pdf",
+    "index.html": "/index.html",
+    "main.066e99b4.css.map": "/static/css/main.066e99b4.css.map",
+    "main.650c7b68.js.map": "/static/js/main.650c7b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066e99b4.css",
+    "static/js/main.650c7b68.js"
+  ]
+}
